@@ -1,2 +1,2 @@
 # Hackit
-Hacktoberfer
+Hacktoberfest
