@@ -1,5 +1,5 @@
 # Hackit
-Hacktoberfer
+Hacktoberfest
 
 <img alt="HF2020" src="https://github.com/thisispratt/hacktoberfest_2020/blob/master/public/HF2020%20Events%20640x360%20Centered.png">
 
