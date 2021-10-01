@@ -2,3 +2,5 @@
 * [Yashika Jain](https://github.com/yashika1410)
 * [Nishant Sabbarwal](https://github.com/nishant3007)
 * [Paras](https://github.com/DaNnyKg07)
+* [Priyank Khanna](https://github.com/priyankkhanna)
+
