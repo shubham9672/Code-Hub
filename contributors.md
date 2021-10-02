@@ -9,7 +9,5 @@
 * [Prashant Kumar ](https://github.com/prashantkumarved)
 * [Shashwat Nayak](https://github.com/shashwat-nayak)
 * [Meghana Reddy](https://github.com/Meghana-Red)
+* [Debajyoti Das](https://github.com/debajyoti22)
 * [Harshavardhan Putta](https://github.com/har5hcodes)
-
-
-
