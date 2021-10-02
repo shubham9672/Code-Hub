@@ -8,5 +8,7 @@
 * [Ujala Jhanwar](https://github.com/ujala8)
 * [Prashant Kumar ](https://github.com/prashantkumarved)
 * [Shashwat Nayak](https://github.com/shashwat-nayak)
+* [Meghana Reddy](https://github.com/Meghana-Red)
+
 
 
