@@ -4,6 +4,7 @@
 * [Paras](https://github.com/DaNnyKg07)
 * [Priyank Khanna](https://github.com/priyankkhanna)
 * [Adithyan P Lal](https://github.com/adithyanplal)
+* [Debajyoti Das](https://github.com/debajyoti22)
 
 
 
