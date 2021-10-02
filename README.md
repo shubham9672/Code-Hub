@@ -9,7 +9,7 @@ Hacktoberfest
 ## How to make your first pull request?
 
 ### Step#1: Star this repo 🌟
-<img width="100%" alt="Star this repo for hacktoberfest" src="https://github.com/shubham9672/Hackit/blob/pics/Star.png">
+<img width="100%" alt="Star this repo for hacktoberfest" src="https://github.com/shubham9672/Hacktoberfest2021/blob/main/Star.png">
 
 ### Step#2: Show some love 😄 
 <a href="https://github.com/shubham9672" aria-label="Follow @shubham9672 on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@shubham9672-blue?style=for-the-badge"  />
