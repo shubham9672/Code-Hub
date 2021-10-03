@@ -12,5 +12,6 @@
 * [Debajyoti Das](https://github.com/debajyoti22)
 * [Harshavardhan Putta](https://github.com/har5hcodes)
 * [Manju Thakur](https://github.com/mthakur7)
-* [Rishabh Sidana](https://github.com/dinagon)
+* [Apurva Bhaskar](https://github.com/ApurvaBhaskar)
 * [Mohak Maheshwari](https://github.com/mohakmaheshwari1205)
+* [Rishabh Sidana](https://github.com/dinagon)
