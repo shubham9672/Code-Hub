@@ -13,3 +13,4 @@
 * [Harshavardhan Putta](https://github.com/har5hcodes)
 * [Manju Thakur](https://github.com/mthakur7)
 * [Mohak Maheshwari](https://github.com/mohakmaheshwari1205)
+* [Aditya Azad](https://github.com/adityaazad79)
