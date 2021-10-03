@@ -42,7 +42,7 @@ int main()
     default:
         printf("Gone too soon ");
         c=0;
-        break;
+      //  break;		//this break is redundant, as we don't have any case after default
     }}
     
 }
