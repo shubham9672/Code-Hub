@@ -14,7 +14,7 @@ Make sure you have **Python 3.x** installed and **the latest version of pip** *i
 1. Clone the repository using the following command
 
 ```bash
-git clone git@github.com:OtakuStanYoutube/cms.git
+git clone <repo-ink>
 # After cloning, move into the directory having the project files using the change directory command
 cd cms
 ```
