@@ -12,3 +12,4 @@
 * [Debajyoti Das](https://github.com/debajyoti22)
 * [Harshavardhan Putta](https://github.com/har5hcodes)
 * [Manju Thakur](https://github.com/mthakur7)
+* [Ashish Shukla](https://github.com/ashishshukla09)
