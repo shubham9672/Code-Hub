@@ -12,6 +12,12 @@
 * [Debajyoti Das](https://github.com/debajyoti22)
 * [Harshavardhan Putta](https://github.com/har5hcodes)
 * [Manju Thakur](https://github.com/mthakur7)
-* [Apurva Bhaskar](https://github.com/ApurvaBhaskar)
+* [Ashish Shukla](https://github.com/ashishshukla09)
 * [Mohak Maheshwari](https://github.com/mohakmaheshwari1205)
 * [Sudeep deysarker](https://github.com/Lunaticsatoshi)
+* [Apurva Bhaskar](https://github.com/ApurvaBhaskar)
+* [Almas Dinani](https://github.com/almas06)
+* [AneekaMari](https://github.com/AneekaMari)
+* [Rishabh Sidana](https://github.com/dinagon)
+
+
