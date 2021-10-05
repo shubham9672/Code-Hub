@@ -27,4 +27,4 @@
 * [AneekaMari](https://github.com/AneekaMari)
 * [Rishabh Sidana](https://github.com/dinagon)
 * [Pranjal Kumar](https://github.com/Pranjal-Barnwal)
-
+* [Deril](https://github.com/deril2605)
