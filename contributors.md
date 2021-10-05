@@ -19,5 +19,5 @@
 * [Almas Dinani](https://github.com/almas06)
 * [AneekaMari](https://github.com/AneekaMari)
 * [Rishabh Sidana](https://github.com/dinagon)
-
+* [Ramón Salado](https://github.com/ramsal)
 
