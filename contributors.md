@@ -26,6 +26,7 @@
 * [Almas Dinani](https://github.com/almas06)
 * [AneekaMari](https://github.com/AneekaMari)
 * [Rishabh Sidana](https://github.com/dinagon)
+* [Pranjal Kumar](https://github.com/Pranjal-Barnwal)
 * [Subrata Mondal](https://github.com/SubrataMondal18)
 
 
