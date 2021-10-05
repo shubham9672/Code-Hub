@@ -26,5 +26,5 @@
 * [Almas Dinani](https://github.com/almas06)
 * [AneekaMari](https://github.com/AneekaMari)
 * [Rishabh Sidana](https://github.com/dinagon)
-
+* [Rishav Duttta[(https://github.com/Rishav-00)
 
