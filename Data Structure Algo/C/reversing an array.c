@@ -29,19 +29,4 @@ int main ()
 
 	return 0;
 }
-//output
-enter no of elements needed
-5
-enter elements
-1
-2
-3
-4
-5
-6
-reversed array
-5
-4
-3
-2
-1
+
