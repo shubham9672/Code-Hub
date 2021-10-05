@@ -14,6 +14,7 @@
 * [Manju Thakur](https://github.com/mthakur7)
 * [Ashish Shukla](https://github.com/ashishshukla09)
 * [Mohak Maheshwari](https://github.com/mohakmaheshwari1205)
+* [Aditya Azad](https://github.com/adityaazad79)
 * [Sudeep deysarker](https://github.com/Lunaticsatoshi)
 * [Apurva Bhaskar](https://github.com/ApurvaBhaskar)
 * [Almas Dinani](https://github.com/almas06)
