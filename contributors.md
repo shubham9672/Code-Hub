@@ -14,10 +14,17 @@
 * [Manju Thakur](https://github.com/mthakur7)
 * [Ashish Shukla](https://github.com/ashishshukla09)
 * [Mohak Maheshwari](https://github.com/mohakmaheshwari1205)
+* [Itasha Modi](https://github.com/Itashamodi)
+* [Prince Kumar Raj](https://github.com/Princekumaraj)
+* [Mishthi Singhal](https://github.com/Mishthisinghal)
+* [Raya](https://github.com/Raya513)
+* [Shourya Gupta](https://github.com/ShouryaBrahmastra)
+* [Maulik Chavda](https://github.com/maulikchavda)
+* [Aditya Azad](https://github.com/adityaazad79)
 * [Sudeep deysarker](https://github.com/Lunaticsatoshi)
 * [Apurva Bhaskar](https://github.com/ApurvaBhaskar)
 * [Almas Dinani](https://github.com/almas06)
 * [AneekaMari](https://github.com/AneekaMari)
 * [Rishabh Sidana](https://github.com/dinagon)
-
+* [Pranjal Kumar](https://github.com/Pranjal-Barnwal)
 
