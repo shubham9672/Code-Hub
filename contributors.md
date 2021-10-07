@@ -14,6 +14,7 @@
 * [Manju Thakur](https://github.com/mthakur7)
 * [Ashish Shukla](https://github.com/ashishshukla09)
 * [Mohak Maheshwari](https://github.com/mohakmaheshwari1205)
+* [Dishan Chamika](https://github.com/Dishan98)
 * [Itasha Modi](https://github.com/Itashamodi)
 * [Prince Kumar Raj](https://github.com/Princekumaraj)
 * [Mishthi Singhal](https://github.com/Mishthisinghal)
@@ -26,5 +27,11 @@
 * [Almas Dinani](https://github.com/almas06)
 * [AneekaMari](https://github.com/AneekaMari)
 * [Rishabh Sidana](https://github.com/dinagon)
+* [Ramón Salado](https://github.com/ramsal)
+* [Anupam Panwar](https://github.com/Anupam-Panwar)
+* [Shubham Kumar](https://github.com/shubhkasyap)
 * [Pranjal Kumar](https://github.com/Pranjal-Barnwal)
+* [Subrata Mondal](https://github.com/SubrataMondal18)
+
+
 
