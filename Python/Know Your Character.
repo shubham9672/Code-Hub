@@ -1,0 +1,114 @@
+print(':::::::::::::::::::::::::"Welcome to Know character":::::::::::::::::::::::::')
+
+list=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
+alp=input('Enter a  letter  ')
+for i in list:
+ if alp=='a':
+   print('very lovely person!!')
+   print('\n')
+   alp=input('Enter a letter  ')
+ elif alp=='b':
+   print('Brightest person')
+   print('\n')
+   alp=input('Enter a letter  ')
+ elif alp=='c':
+  print('Clever ')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='d':
+  print('independent')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='e':
+  print('Enthusiastic')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='f':
+  print('Responsible')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='g':
+  print('clear mindset')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='h':
+  print('Successful')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='i':
+  print('courageous')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='j':
+  print('Ambitious')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='k':
+  print('Hide Emotions')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='l':
+  print('High Energy')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='m':
+  print('Intelligent')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='n':
+  print('Artistic')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='o':
+  print('Compassionate')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='p':
+  print('Talkative')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='q':
+  print('creative')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='r':
+  print('Social')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='s':
+  print('Multi-Talented')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='t':
+  print('Manager')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='u':
+  print('Advicer')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='v':
+  print('Victor')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='w':
+  print('Protective')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='x':
+  print('committed')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='y':
+  print('Impressive')
+  print('\n')
+  alp=input('Enter a letter  ')
+ elif alp=='z':
+  print('popular')
+  print('\n')
+  alp=input('Enter a letter  ')
+ else:
+   print('.........::::::::::::::::Please Enter letter in lowercase only!!...................')
+   alp=input('Enter a letter  ')
+   
+  
