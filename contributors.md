@@ -38,6 +38,8 @@
 * [Gourav](https://github.com/gouravchawla334)
 * [Shreya Shettar](https://github.com/shreya-bit)
 * [Subrata Mondal](https://github.com/SubrataMondal18)
+* [Rushi Patel](https://github.com/Developer-R-7)
 * [Siddhant Srivastava](https://github.com/sidsrivastavasks)
+
 
 
