@@ -28,6 +28,7 @@
 * [Almas Dinani](https://github.com/almas06)
 * [AneekaMari](https://github.com/AneekaMari)
 * [Rishabh Sidana](https://github.com/dinagon)
+* [Moksha Sood](https://github.com/Mokshasood)
 * [Azmeera bhagya sree](https://github.com/Azmeerabhagyasree)
 * [Ramón Salado](https://github.com/ramsal)
 * [Anupam Panwar](https://github.com/Anupam-Panwar)
@@ -36,3 +37,4 @@
 * [Shreya Shettar](https://github.com/shreya-bit)
 * [Subrata Mondal](https://github.com/SubrataMondal18)
 * [Siddhant Srivastava](https://github.com/sidsrivastavasks)
+
