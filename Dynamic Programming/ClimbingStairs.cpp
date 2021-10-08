@@ -1,0 +1,28 @@
+// Climbing Stairs Problem
+// Input : 5
+// Output : 8
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int climbStairs(int n)
+{
+    int dp[n + 2];
+    dp[0] = 0;
+    dp[1] = 1;
+    dp[2] = 2;
+    for (int i = 3; i <= n; i++)
+    {
+        dp[i] = dp[i - 1] + dp[i - 2];
+    }
+    return dp[n];
+}
+
+int main()
+{
+    int n;
+    //Input number of stairs
+    cin >> n;
+    int ans = climbStairs(n);
+    cout << ans << endl;
+}
