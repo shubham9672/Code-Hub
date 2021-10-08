@@ -11,10 +11,11 @@ class proko{
         for(int i=0;i<l;i++){
             if(arr[i]<min){
                 min=arr[i];
-                System.out.println(min);
+                
             }
             
             
         }
+        System.out.println(min);
    }
 }
