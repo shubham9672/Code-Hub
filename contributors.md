@@ -32,6 +32,7 @@
 * [Shubham Kumar](https://github.com/shubhkasyap)
 * [Pranjal Kumar](https://github.com/Pranjal-Barnwal)
 * [Subrata Mondal](https://github.com/SubrataMondal18)
+* [Siddhant Srivastava](https://github.com/sidsrivastavasks)
 
 
 
