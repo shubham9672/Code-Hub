@@ -31,5 +31,6 @@
 * [Shubham Kumar](https://github.com/shubhkasyap)
 * [Pranjal Kumar](https://github.com/Pranjal-Barnwal)
 * [Subrata Mondal](https://github.com/SubrataMondal18)
+* [Ayush Raj](https://github.com/Ayush0751)
 
 
