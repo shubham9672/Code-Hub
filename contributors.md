@@ -14,6 +14,7 @@
 * [Manju Thakur](https://github.com/mthakur7)
 * [Ashish Shukla](https://github.com/ashishshukla09)
 * [Mohak Maheshwari](https://github.com/mohakmaheshwari1205)
+* [Abhay Kumar Mittal](https://github.com/MitAbhay)
 * [Dishan Chamika](https://github.com/Dishan98)
 * [Itasha Modi](https://github.com/Itashamodi)
 * [Prince Kumar Raj](https://github.com/Princekumaraj)
@@ -33,7 +34,3 @@
 * [Shubham Kumar](https://github.com/shubhkasyap)
 * [Pranjal Kumar](https://github.com/Pranjal-Barnwal)
 * [Subrata Mondal](https://github.com/SubrataMondal18)
-
-
-
-
