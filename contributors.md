@@ -27,4 +27,4 @@
 * [AneekaMari](https://github.com/AneekaMari)
 * [Rishabh Sidana](https://github.com/dinagon)
 * [Pranjal Kumar](https://github.com/Pranjal-Barnwal)
-* [Gourav Chawla](https:github.com/gouravchawla)
+* [Gourav Chawla](https://github.com/gouravchawla)
