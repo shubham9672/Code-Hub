@@ -1,8 +1,8 @@
 /* Prepared By Ayush Raj (https://github.com/Ayush0751)
 
 # C code for constructing binary search tree which performs
-   1. inserion
-   2. deletion
+   1. Inserion
+   2. Deletion
    3. Searching (Recursive and iterative)
    4. Prints inorder sequence for the the binary search tree constructed
 
