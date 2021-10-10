@@ -2,7 +2,7 @@
 Given an expression string x. Examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.
 '''
 
-def ispar(self,x):
+def ispar(x):
     stack=[]
     for i in range(len(x)):
         if x[i]=='(' or x[i]=='{' or x[i]=='[':
