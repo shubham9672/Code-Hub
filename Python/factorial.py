@@ -3,11 +3,17 @@ def fact(n):
 		return 1
 	else:
 	    return n*fact(n-1)
-n=int(input("Enter the number whoes factorial you want to find\n"))
+n=input("Enter the number whose factorial you want to find\n")
+try:
+	n=int(n)
+except:
+	print("\nInvalid input. Please enter a number only!")
+	exit()
+
 if n<0:
 	print("Not possible you have entered negative number")
 elif n==0:
 	print("0")
 else:
     result=fact(n)
-    print(result)
+    print("\nFactorial value is "+str(result))
