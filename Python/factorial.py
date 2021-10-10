@@ -7,7 +7,7 @@ n=int(input("Enter the number whoes factorial you want to find\n"))
 if n<0:
 	print("Not possible you have entered negative number")
 elif n==0:
-	print("0")
+	print("1")
 else:
     result=fact(n)
     print(result)
