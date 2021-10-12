@@ -43,4 +43,5 @@
 * [Rushi Patel](https://github.com/Developer-R-7)
 * [Siddhant Srivastava](https://github.com/sidsrivastavasks)
 * [Vijay Thkaur](https://github.com/Tiro-rex)
+* [Alankar Singh](https://github.com/alankarartist)
 * [Guillergood](https://github.com/Guillergood)
