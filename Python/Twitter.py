@@ -1,3 +1,4 @@
+# Developer: Jayanti Goswami (Jayanti2919)
 import tweepy
 from textblob import TextBlob
 import matplotlib.pyplot as plt
