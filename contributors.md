@@ -44,3 +44,4 @@
 * [Siddhant Srivastava](https://github.com/sidsrivastavasks)
 * [Vijay Thkaur](https://github.com/Tiro-rex)
 * [Alankar Singh](https://github.com/alankarartist)
+* [Devanshi Mishra](https://github.com/devanshi-code)
