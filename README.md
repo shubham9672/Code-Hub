@@ -12,7 +12,7 @@ Hacktoberfest
 <img width="100%" alt="Star this repo for hacktoberfest" src="https://github.com/shubham9672/Hacktoberfest2021/blob/main/Star.png">
 
 ### Step#2: Show some love 😄 
-<a href="https://github.com/shubham9672" aria-label="Follow @shubham9672 on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@shubham9672-blue?style=for-the-badge"  />
+<a href="https://github.com/kanait84" aria-label="Follow @kanait84 on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@shubham9672-blue?style=for-the-badge"  />
 </a>
 <br>
 (Follow me on github - this motivates me to review & merge pull requests quicker.) 
@@ -31,6 +31,11 @@ Hacktoberfest
 
 ## Are you a Software Developer💻?
 This repo is open to contributions (in the form of questions) from Software Developers.
+
+
+[Kanagaraj] (https://github.com/kanait84)
+
+
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and GitHub to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
