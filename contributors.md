@@ -35,6 +35,7 @@
 * [Anupam Panwar](https://github.com/Anupam-Panwar)
 * [Shubham Kumar](https://github.com/shubhkasyap)
 * [Pranjal Kumar](https://github.com/Pranjal-Barnwal)
+* [Deril](https://github.com/deril2605)
 * [Rishi Singh](https://github.com/Rishi-Singh69)
 * [Sashank Agarwal](https://github.com/sasagarw)
 * [Gourav](https://github.com/gouravchawla334)
@@ -44,3 +45,4 @@
 * [Siddhant Srivastava](https://github.com/sidsrivastavasks)
 * [Vijay Thkaur](https://github.com/Tiro-rex)
 * [Alankar Singh](https://github.com/alankarartist)
+
