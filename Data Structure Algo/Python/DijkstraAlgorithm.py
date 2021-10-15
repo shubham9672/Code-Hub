@@ -8,7 +8,7 @@ The program is for adjacency list representation of the graph
 def dijkstra(N, graph, src):
     S = list()
     S.append(src)
-    dist = {x: 99 for x in range(1, N+1)}
+    dist = {x: 99 for x in range(1, N + 1)}
     dist[src] = 0
     minCost = 999
     selected_u = 0
@@ -26,29 +26,31 @@ def dijkstra(N, graph, src):
                         selected_v = v
         dist[selected_v] = minCost
         S.append(selected_v)
-        print(selected_u, '--->', selected_v)
+        print(selected_u, "--->", selected_v)
         minCost = 999
         S.sort()
+
 
 # Function used to take input of graph and source node
 def main():
     graph = {}
-    N = int(input('Enter number of Nodes: '))
-    for i in range(1, N+1):
-        print('Enter adjacent Node(s) and its weight(s) for Node: ', i)
+    N = int(input("Enter number of Nodes: "))
+    for i in range(1, N + 1):
+        print("Enter adjacent Node(s) and its weight(s) for Node: ", i)
         string = input()
         adjListWithWeights = string.split()
         print(adjListWithWeights)
         adjDict = {}
         for x in adjListWithWeights:
-            y = x.split(',')
+            y = x.split(",")
             adjDict[int(y[0])] = int(y[1])
             graph[i] = adjDict
     print("The input graph is: ", graph)
 
-    src = int(input('Enter source value: '))
+    src = int(input("Enter source value: "))
 
     dijkstra(N, graph, src)
+
 
 # Call the main function to start the program
 main()

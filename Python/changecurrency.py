@@ -1,4 +1,5 @@
 from forex_python.converter import CurrencyRates
+
 c = CurrencyRates()
 
 amount = int(input("Enter the amount: "))

@@ -1,17 +1,32 @@
 name = input("Enter your NAME :")
-print("Welcome",name)
+print("Welcome", name)
 
 print("*****************")
 
-print ("Try to guess the word in less than 10 minutes :")
+print("Try to guess the word in less than 10 minutes :")
 
 import random
+
+
 def hangman():
 
-    word = random.choice(["pugger" , "littlepugger" , "tiger" , "superman" , "thor" , "pokemon" , "avengers" , "savewater" , "earth" , "annable" ])
-    validLetters = 'abcdefghijklmnopqrstuvwxyz'
+    word = random.choice(
+        [
+            "pugger",
+            "littlepugger",
+            "tiger",
+            "superman",
+            "thor",
+            "pokemon",
+            "avengers",
+            "savewater",
+            "earth",
+            "annable",
+        ]
+    )
+    validLetters = "abcdefghijklmnopqrstuvwxyz"
     turns = 10
-    guessmade = ''
+    guessmade = ""
 
     while len(word) > 0:
         main = ""
@@ -27,7 +42,7 @@ def hangman():
             print("You win!")
             break
 
-        print("Guess the word:" , main)
+        print("Guess the word:", main)
         guess = input()
 
         if guess in validLetters:
@@ -98,7 +113,7 @@ def hangman():
 
 
 name = input("Enter your name")
-print("Welcome" , name )
+print("Welcome", name)
 print("-------------------")
 print("try to guess the word in less than 10 attempts")
 hangman()
