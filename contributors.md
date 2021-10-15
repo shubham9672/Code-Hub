@@ -44,4 +44,4 @@
 * [Siddhant Srivastava](https://github.com/sidsrivastavasks)
 * [Vijay Thkaur](https://github.com/Tiro-rex)
 * [Alankar Singh](https://github.com/alankarartist)
-* [ABHINAV RAI](https://github.com/Lyghtjr/)
+* [ABHINAV RAI](https://github.com/Lyghtjr)
