@@ -1,0 +1,23 @@
+def search_ele(ip_arr, x):
+
+    for i in range(len(ip_arr)):
+
+        if ip_arr[i] == x:
+
+            return True
+
+    return False
+
+  
+
+ip_arr = [2, 15, 4, 10]
+
+x = 4
+
+if search_ele(ip_arr, x):
+
+    print("Element found!")
+
+else:
+
+    print("Element not found!")
