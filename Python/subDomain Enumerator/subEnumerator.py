@@ -29,7 +29,7 @@ if __name__ == '__main__':
     print(" ")
     domain_name = input("Enter the Domain : ")
 
-    with open("./subdomain","r") as file:
+    with open("sd","r") as file:
         #read the file 
         name = file.read()
         sub_name = name.splitlines()
