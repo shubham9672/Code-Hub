@@ -1,0 +1,2 @@
+pyzbar==0.1.8
+opencv-python==4.5.3.56
