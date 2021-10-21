@@ -1,5 +1,6 @@
 import cv2 as cv
 import numpy as np
+import os
 
 config_file = (r'D:\Hacktoberfest2021-2\Python\Object Detection\Coco\ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt')
 frozen_model = (r'D:\Hacktoberfest2021-2\Python\Object Detection\Coco\frozen_inference_graph.pb')
