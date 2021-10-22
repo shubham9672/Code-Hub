@@ -1,0 +1,1 @@
+This is an Employee Management System written in Python. It includes functionalities such as generating random employee data, adding, deteleting and modifying employee details etc.
