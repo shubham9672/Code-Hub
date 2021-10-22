@@ -45,4 +45,5 @@
 * [Siddhant Srivastava](https://github.com/sidsrivastavasks)
 * [Vijay Thkaur](https://github.com/Tiro-rex)
 * [Alankar Singh](https://github.com/alankarartist)
+* [Wadzek1](https://github.com/Wadzek1)
 
