@@ -1,0 +1,63 @@
+//Creating a stak using array
+// Name  =  Gurjot singh
+#include<stdio.h>
+int stack [10], top=0;
+void create();
+void traverse();
+void push();
+void pop();
+int main()
+    {
+        create();
+        traverse();
+        push();
+        traverse();
+        pop();
+        traverse();
+        return 0;
+        
+    }
+void create(){
+    char ch;
+    do{
+        top++;
+        printf("\n Print elemnets");
+        scanf("%d", &stack[top]);
+        printf("\n Print y/n to continew ");
+        scanf("%c", &ch);
+    }
+    while (ch!='n');
+}
+void traverse()
+    {
+        int i;
+        printf("\n Traverse of stack");
+        for(i=top;i>0;--i)
+        printf("\n %d", stack[i]);
+    }
+void push()
+    {
+        int m;
+        if (top==10)
+        {
+            printf("\n Stack is overflow");
+            return;
+        
+        }
+        printf("\n Input Elements");
+        scanf("%d", &m);
+        top++;
+        stack[top]=m;
+
+    }
+void pop(){
+    if (top==0)
+    {
+        printf("\n stack is underflow");
+        return;
+        
+    }
+    stack[top]='\0';
+    top--;
+}
+
