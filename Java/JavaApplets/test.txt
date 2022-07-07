@@ -1,0 +1,11 @@
+<applet 
+    code = "GraphicsMethods.class" 
+    width = "1000" 
+    height = "1000"
+    alt = "Applet Here" 
+    name = "Methods" 
+    align = "center"
+>
+</applet> 
+
+<!--This Workd Too!!-->
