@@ -1,7 +1,12 @@
 # Hacktoberfest2021
+![](https://visitor-badge.glitch.me/badge?page_id=Hacktoberfest2021)
+
 Hacktoberfest
 
 <img alt="HF2021" src="https://github.com/shubham9672/Hacktoberfest2021/blob/main/hacktober.png">
+
+[![](https://img.shields.io/github/stars/shubham9672/Hacktoberfest2021?style=for-the-badge)](#stars)
+[![](https://img.shields.io/github/forks/shubham9672/Hacktoberfest2021?style=for-the-badge)](#forks)
 
 ### :octocat: Open your first pull request for the Hacktoberfest 2021 challenge.
 
