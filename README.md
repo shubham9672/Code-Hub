@@ -1,4 +1,4 @@
-# Hacktoberfest2021
+# Hacktoberfest in 2021
 Hacktoberfest
 
 <img alt="HF2021" src="https://github.com/shubham9672/Hacktoberfest2021/blob/main/hacktober.png">
