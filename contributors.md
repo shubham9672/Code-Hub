@@ -2,6 +2,7 @@
 * [Yashika Jain](https://github.com/yashika1410)
 * [Nishant Sabbarwal](https://github.com/nishant3007)
 * [Paras](https://github.com/DaNnyKg07)
+* [Gaurav Mathur](https://github.com/NoobSolver)
 * [Priyank Khanna](https://github.com/priyankkhanna)
 * [Adithyan P Lal](https://github.com/adithyanplal)
 * [Chitesh Garg](https://github.com/chitesh99)
